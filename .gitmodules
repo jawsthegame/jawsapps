@@ -1,0 +1,6 @@
+[submodule "bikerite"]
+	path = bikerite
+	url = git://github.com/jawsthegame/bikerite.git
+[submodule "explorify-server"]
+	path = explorify-server
+	url = git://github.com/jawsthegame/explorify-server.git
