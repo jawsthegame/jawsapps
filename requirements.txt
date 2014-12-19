@@ -1,12 +1,2 @@
--e git+https://github.com/vistarmedia/rest.git@master#egg=rest
-Flask-SQLAlchemy
-Flask-Script
-Flask-Testing
 Flask==0.10
-alembic
 gunicorn
-nose
-numpy
-psycopg2
-requests
-sqlalchemy
